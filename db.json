@@ -1,0 +1,60 @@
+{
+"flowers":[
+    {
+        "img":"https://blomstervarlden.se/cdn/shop/products/tulipan-van-eijk-50405846352207.jpg?v=1702654755",
+        "type":"exotic popular all",
+        "name":"Tulpan",
+        "id":"1",
+        "price":10
+    },
+    {
+        "img":"https://asangul.com/wa-data/public/shop/products/59/00/59/images/105/105.600.jpeg",
+        "type":"various all",
+        "name":"Qərənfil",
+        "id":"2",
+        "price":15
+    },
+    {
+        "img":"https://hips.hearstapps.com/hmg-prod/images/winter-flowers-6557c2c334037.jpeg?crop=0.670xw:1.00xh;0.0520xw,0&resize=640:*",
+        "type":"winter all",
+        "name":"WinterFlower",
+        "id":"3",
+        "price":5
+    },
+    {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfQ7HLggfRdKSydkFqoVPHMWCQ90r7YwSDK4J52TDWbA&s",
+        "type":"green all",
+        "name":"Exochorda",
+        "id":"4",
+        "price":7
+    },
+    {
+        "img":"https://hips.hearstapps.com/hmg-prod/images/thimble-cactus-royalty-free-image-1695063544.jpg",
+        "type":"cactus all",
+        "name":"Cactus",
+        "id":"5",
+        "price":2
+    },
+    {
+        "img":"https://agciceyim.az/data/catalog/product/86/199_lg.jpg",
+        "type":"popular all",
+        "name":"Rose",
+        "id":"6",
+        "price":13
+    },
+    {
+        "img":"https://www.adalet.az/js/ckfinder/userfiles/images/2(36).jpg",
+        "type":"popular all",
+        "name":"Nargiz",
+        "id":"7",
+        "price":1
+    },  
+    {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXfBsOeHxZfHy11d3NqF5LzEERMWBsqgcIZWicEq-2g&s",
+        "type":"exotic all",
+        "name":"InterFlora",
+        "id":"8",
+        "price":20
+    }
+]
+}
