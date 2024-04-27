@@ -1,0 +1,1 @@
+Please, write this code to terminal for running json server : npx json-server db.json
